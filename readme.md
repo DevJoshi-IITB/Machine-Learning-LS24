@@ -11,3 +11,7 @@
 1. Classifiers
 2. Neural Network
 3. YOLOv8
+
+## Week 4
+1. CNN
+2. OpenCV
